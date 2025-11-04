@@ -71,7 +71,7 @@ AdaBoost는 소수의 약한 분류기(약 20~30개) 만으로도 빠르게 수�
 ## How to Use 
 
 ```bash
-git clone https://github.com/<your-username>/breast-cancer-adaboost.git
+git clone https://github.com/jjyoon012-git/breast-cancer-adaboost.git
 cd breast-cancer-adaboost
 pip install -r requirements.txt
 streamlit run mldlhw2.py
